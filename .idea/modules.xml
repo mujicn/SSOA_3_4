@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Lab3 Code Enviroment Implementation.iml" filepath="$PROJECT_DIR$/.idea/Lab3 Code Enviroment Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 Discovery/discovery client/eureka-client.iml" filepath="$PROJECT_DIR$/1 Discovery/discovery client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 Discovery/discovery service/eureka-service.iml" filepath="$PROJECT_DIR$/1 Discovery/discovery service/eureka-service.iml" />
     </modules>
   </component>
 </project>
