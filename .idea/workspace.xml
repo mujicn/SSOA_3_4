@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8899b7fa-aff3-41f4-b586-bd80fadc54e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2 Bookstore/reading service/pom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 Bookstore/reading service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 Gateway/Application1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3 Gateway/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 Gateway/Application2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3 Gateway/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 Gateway/Application3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3 Gateway/Application3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 Gateway/pom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3 Gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Filter/book/BookApplication.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4 Filter/book/BookApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Filter/book/application.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/4 Filter/book/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Filter/book/pom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4 Filter/book/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Filter/gateway/mit Filter/GatewayApplication.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4 Filter/gateway/mit Filter/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Filter/gateway/mit Filter/SimpleFilter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4 Filter/gateway/mit Filter/SimpleFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Filter/gateway/ohne Filter/GatewayApplication.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4 Filter/gateway/ohne Filter/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Filter/gateway/ohne Filter/application.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/4 Filter/gateway/ohne Filter/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Filter/gateway/ohne Filter/pom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4 Filter/gateway/ohne Filter/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/1 Discovery/discovery client/target/" />
     <ignored path="$PROJECT_DIR$/1 Discovery/discovery service/target/" />
@@ -15,17 +27,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2 Bookstore/reading service/application.properties.properties">
+        <entry file="file://$PROJECT_DIR$/4 Filter/book/BookApplication.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4 Filter/book/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4 Filter/gateway/mit Filter/SimpleFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-89" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4 Filter/gateway/ohne Filter/GatewayApplication.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2 Bookstore/reading service/pom.xml">
+        <entry file="file://$PROJECT_DIR$/4 Filter/gateway/ohne Filter/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+            <state relative-caret-position="380">
+              <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4 Filter/gateway/mit Filter/GatewayApplication.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 Gateway/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4 Filter/book/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 Gateway/Application2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 Gateway/Application3.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -42,6 +112,9 @@
         <option value="$PROJECT_DIR$/1 Discovery/discovery client/pom.xml" />
         <option value="$PROJECT_DIR$/2 Bookstore/bookstore service/pom.xml" />
         <option value="$PROJECT_DIR$/2 Bookstore/reading service/pom.xml" />
+        <option value="$PROJECT_DIR$/3 Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/4 Filter/book/pom.xml" />
+        <option value="$PROJECT_DIR$/4 Filter/gateway/ohne Filter/pom.xml" />
       </list>
     </option>
   </component>
@@ -86,7 +159,43 @@
               <item name="SSOA_3_4" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSOA_3_4" type="462c0819:PsiDirectoryNode" />
               <item name="2 Bookstore" type="462c0819:PsiDirectoryNode" />
-              <item name="reading service" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSOA_3_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSOA_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="3 Gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSOA_3_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSOA_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="4 Filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSOA_3_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSOA_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="4 Filter" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSOA_3_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSOA_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="4 Filter" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSOA_3_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSOA_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="4 Filter" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="mit Filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSOA_3_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSOA_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="4 Filter" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ohne Filter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578868378515</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updates">
+      <created>1578868627925</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578868627925</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -154,7 +270,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49966466" weight="0.48797736" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49966466" visible="true" weight="0.28288543" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033534" side_tool="true" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -195,12 +311,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4 Filter/book/BookApplication.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4 Filter/gateway/mit Filter/GatewayApplication.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1 Discovery/discovery client/EurekaClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -266,20 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 Bookstore/bookstore service/CircuitBreakerBookstoreApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 Bookstore/bookstore service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2 Bookstore/bookstore service/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -287,13 +383,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 Bookstore/reading service/application.properties.properties">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/2 Bookstore/bookstore service/CircuitBreakerBookstoreApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2 Bookstore/reading service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        <state relative-caret-position="155">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 Bookstore/reading service/CircuitBreakerReadingApplicationohne Hysterix.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 Bookstore/reading service/CircuitBreakerReadingApplication_mit Hysterix.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 Bookstore/reading service/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 Bookstore/reading service/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <folding>
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 Bookstore/bookstore service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Gateway/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Gateway/Application1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Gateway/Application3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Gateway/Application2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 Filter/book/BookApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 Filter/book/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 Filter/gateway/mit Filter/GatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 Filter/gateway/mit Filter/SimpleFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 Filter/gateway/ohne Filter/GatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 Filter/book/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 Filter/gateway/ohne Filter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
         </state>
       </provider>
     </entry>
